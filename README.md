@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/VectorDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-00BFA5?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embeddings-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-FF4081?style=for-the-badge&logo=chunks&logoColor=white" />
 </p>
 
 ### 🎮 Other Skills
