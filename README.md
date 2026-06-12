@@ -45,11 +45,10 @@
   <img src="https://img.shields.io/badge/Embeddings-FF4081?style=for-the-badge&logo=chunks&logoColor=white" />
 </p>
 
-### 🎮 Other Skills
+### 🎮 3D
 
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/3D%20Development-0078D4?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
 ---
